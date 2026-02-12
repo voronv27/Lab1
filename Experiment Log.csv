@@ -1,0 +1,5 @@
+run_id,timestamp,dataset,split_type,seed,pipeline_notes,parameters,MAE
+Week 1--Ridge,(EST): 2026-02-11 17:52:21,test_score_prediction,80/20 train/test,random_state = 42,no filtering/standard scaler/onehot for categorial,alpha = 1.0,7.863
+Week 2--SVR1,(EST): 2026-02-11 17:52:22,test_score_prediction,80/20 train/test,random_state = 42,no filtering/standard scaler/onehot for categorial,C=0.1,7.867
+Week 2--SVR2,(EST): 2026-02-11 17:52:22,test_score_prediction,80/20 train/test,random_state = 42,no filtering/standard scaler/onehot for categorial,C=1,7.859
+Week 2--SVR3,(EST): 2026-02-11 17:52:22,test_score_prediction,80/20 train/test,random_state = 42,no filtering/standard scaler/onehot for categorial,C=1,7.86
